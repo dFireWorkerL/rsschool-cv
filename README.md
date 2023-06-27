@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://dFireWorkerL.github.io/rsschool-cv/cv
