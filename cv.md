@@ -27,3 +27,17 @@ Russia, Moscow – QA-engineer (2021 - present)
 * Git
 * Python (PyTest, Allure, Requests, JSON-scheme)
 * Unix-like OS
+
+## Languages
+**English**: I have a hearing problem, so listening is A1. The other skills are B1
+
+## Code example
+```javascript
+const sumMul = (n, m) => {
+  let result = 0;
+  for (let i = n; i < m; i += n) {
+    result += i;
+  }
+  return result ? result : "INVALID";
+};
+```
